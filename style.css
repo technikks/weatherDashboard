@@ -1,0 +1,16 @@
+.jumbotron{
+    text-align: center;
+    font-weight: bold;
+    background-image: url("pictures/weather.png");
+    border-radius: 0;
+    border-bottom: 10px solid black;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+
+aside {
+    background-color: aliceblue;
+}
